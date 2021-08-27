@@ -1,7 +1,7 @@
 # ConsumoAPI_JS
 
 
-![GitHub](https://img.shields.io/github/license/LombaAnderson/ConsumoAPI_JS)https://github.com/LombaAnderson/ConsumoAPI_JS/blob/master/LICENSE
+![GitHub](https://img.shields.io/github/license/LombaAnderson/ConsumoAPI_JS)
 ![GitHub repo size](https://img.shields.io/github/repo-size/LombaAnderson/ConsumoAPI_JS)
 
 
